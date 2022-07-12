@@ -5,6 +5,7 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 * [Essential and Advanced Math](#essential-and-advanced-math)
 * [University Lectures (Various Topics)](#university-lectures)
 * [Data Analysis and Visualization](#data-analysis-and-visualization)
+* [Machine and Deep Learning](#machine-and-deep-learning)
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -53,3 +54,17 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 ### Tools
 
 * 🛠️ [DAX Formatter](http://www.daxformatter.com/) - *DAX Formatter*
+
+## Machine and Deep Learning
+
+### Youtube
+
+* 📽️ [Krish Naik](https://www.youtube.com/user/krishnaik06/videos)
+* 📽️ [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)
+
+### Blogs
+
+* 🌐 [KDnuggets](https://www.kdnuggets.com/) - *ML Articles*
+* 🌐 [Papers with Code](https://paperswithcode.com/) - *ML/DL Papers*
+* 🌐 [Kaggle](https://www.kaggle.com/) - *Tutorials + Competitions*
+* 🌐 [Blobcity](https://cloud.blobcity.com/code/explore) - *ML Models Tutorials and Snippets*
