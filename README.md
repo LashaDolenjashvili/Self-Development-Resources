@@ -18,6 +18,7 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 * 📽️ [Steve Brunton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw)
 * 📽️ [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * 📽️ [StatQuest](https://www.youtube.com/c/joshstarmer)
+* [Krish Naik](https://www.youtube.com/user/krishnaik06/videos)
 
 ### Tools
 
@@ -32,6 +33,8 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 
 ## Data Analysis and Visualization
 
+### Youtube Channels
+
 * 📽️ [Avi Singh - PowerBIPro](https://www.youtube.com/user/ModernExcel)
 * 📽️ [BI Elite](https://www.youtube.com/c/BIElite/videos)
 * 📽️ [Enterprise DNA](https://www.youtube.com/channel/UCy2rBgj4M1tzK-urTZ28zcA)
@@ -41,3 +44,12 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 * 📽️ [SQLBI](https://www.youtube.com/user/sqlbitv)
 * 📽️ [Tableau Software](https://www.youtube.com/user/tableausoftware)
 * 📽️ [Other Level's](https://www.youtube.com/c/OtherLevel%E2%80%99s/videos)
+
+### Blogs
+
+* 🌐 [SQLBI](https://www.sqlbi.com/) - *DAX, Power BI*
+* 🌐 [DaxPatterns](https://www.daxpatterns.com/patterns/) - *DAX, Power BI*
+
+### Tools
+
+* 🛠️ [DAX Formatter](http://www.daxformatter.com/) - *DAX Formatter*
