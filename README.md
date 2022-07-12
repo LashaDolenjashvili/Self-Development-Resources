@@ -18,7 +18,7 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 * 📽️ [Steve Brunton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw)
 * 📽️ [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * 📽️ [StatQuest](https://www.youtube.com/c/joshstarmer)
-* [Krish Naik](https://www.youtube.com/user/krishnaik06/videos)
+* 📽️ [Krish Naik](https://www.youtube.com/user/krishnaik06/videos)
 
 ### Tools
 
