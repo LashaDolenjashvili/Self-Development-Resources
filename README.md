@@ -1,4 +1,4 @@
-# Useful Resources
+# Self-Development Resources
 A growing list of tools, tutorials, blogs, and Youtube channels for self-development and career growth. 
 
 ## Topics:
