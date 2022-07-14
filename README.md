@@ -89,10 +89,10 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 * 📽️ [Very Academy](https://www.youtube.com/c/veryacademy/featured)
 * 📽️ [Free Code Camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * 📽️ [Intellipaat](https://www.youtube.com/user/intellipaaat)
+* 🌐 [W3Schools](https://www.w3schools.com/)
 * 🌐 [Stack Overflow](https://stackoverflow.com/)
 * 🌐 [Medium](https://medium.com/)
 * 🌐 [GeeksForGeeks](https://www.geeksforgeeks.org/)
-* 🌐 [W3Schools](https://www.w3schools.com/)
 
 ## General Knowledge
 
