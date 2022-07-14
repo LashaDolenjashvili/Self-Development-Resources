@@ -37,7 +37,6 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 * 📽️ [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * 📽️ [StatQuest](https://www.youtube.com/c/joshstarmer)
 * 📽️ [Krish Naik](https://www.youtube.com/user/krishnaik06/videos)
-
 * 🛠️ [Desmos](https://www.desmos.com/)
 * 🛠️ [Symbolab](https://www.symbolab.com/)
 
@@ -53,14 +52,11 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 
 * 📽️ [Krish Naik](https://www.youtube.com/user/krishnaik06/videos)
 * 📽️ [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)
-
 * 🌐 [KDnuggets](https://www.kdnuggets.com/) - *ML Articles*
 * 🌐 [Papers with Code](https://paperswithcode.com/) - *ML/DL Papers*
 * 🌐 [Kaggle](https://www.kaggle.com/) - *Tutorials + Competitions*
 * 🌐 [Blobcity](https://cloud.blobcity.com/code/explore) - *ML Models Tutorials and Snippets*
-
 * 🎤 [DataFramed](https://www.datacamp.com/podcast) - *Podcast from Datacamp*
-
 * 🛠️ [Google Colab](https://colab.research.google.com/) - *Interactive Python Notebook (Free)*
 * 🛠️ [Deepnote](https://deepnote.com/home) - *Interactive Notebook on steroids*
 
@@ -75,10 +71,8 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 * 📽️ [SQLBI](https://www.youtube.com/user/sqlbitv)
 * 📽️ [Tableau Software](https://www.youtube.com/user/tableausoftware)
 * 📽️ [Other Level's](https://www.youtube.com/c/OtherLevel%E2%80%99s/videos)
-
 * 🌐 [SQLBI](https://www.sqlbi.com/) - *DAX, Power BI*
 * 🌐 [DaxPatterns](https://www.daxpatterns.com/patterns/) - *DAX, Power BI*
-
 * 🛠️ [DAX Formatter](http://www.daxformatter.com/) - *DAX Formatter*
 
 ### Modern Data Analytics Platforms
@@ -90,6 +84,11 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 
 ## Software Development
 
+* 📽️ [Codemy.com](https://www.youtube.com/c/Codemycom/featured)
+* 📽️ [CodingEntrepreneurs](https://www.youtube.com/c/CodingEntrepreneurs/videos)
+* 📽️ [Very Academy](https://www.youtube.com/c/veryacademy/featured)
+* 📽️ [Free Code Camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* 📽️ [Intellipaat](https://www.youtube.com/user/intellipaaat)
 * 🌐 [Stack Overflow](https://stackoverflow.com/)
 * 🌐 [Medium](https://medium.com/)
 * 🌐 [GeeksForGeeks](https://www.geeksforgeeks.org/)
@@ -111,7 +110,6 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 * 📽️ [Kurzgesagt](https://www.youtube.com/c/inanutshell)
 * 📽️ [Ted-Ed](https://www.youtube.com/teded)
 * 📽️ [Dr. Becky](https://www.youtube.com/c/DrBecky)
-
 * 🌐 [Science News](https://www.sciencenews.org/)
 * 🌐 [Visual Capitalist](https://www.visualcapitalist.com/) - *Infographics*
 * 🌐 [Space.com](https://www.space.com/) - *Space News*
