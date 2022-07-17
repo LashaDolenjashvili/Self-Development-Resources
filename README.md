@@ -18,6 +18,7 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
   * [For Developers](#for-developers)
   * [Design](#design)
   * [General](#general) 
+* [Best Tutorials on Various Topics](#best-tutorials)
 
 #### Icon Definitions
 
@@ -72,8 +73,10 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 * 📽️ [Tableau Software](https://www.youtube.com/user/tableausoftware)
 * 📽️ [Other Level's](https://www.youtube.com/c/OtherLevel%E2%80%99s/videos)
 * 🌐 [SQLBI](https://www.sqlbi.com/) - *DAX, Power BI*
-* 🌐 [DaxPatterns](https://www.daxpatterns.com/patterns/) - *DAX, Power BI*
+* 🌐 [Dax Patterns](https://www.daxpatterns.com/patterns/) - *Interesting DAX Patterns*\
+* 🌐 [Dax Guide](https://dax.guide/) - *DAX Functions and Examples*
 * 🛠️ [DAX Formatter](http://www.daxformatter.com/) - *DAX Formatter*
+* 🛠️ [DAX Do](https://dax.do/) - *Practice DAX online*
 
 ### Modern Data Analytics Platforms
 
@@ -158,3 +161,8 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 * 🛠️ [Notion](https://www.notion.so/product) - *Planning, Note Taking*
 * 🛠️ [Novoresume](https://novoresume.com/?noRedirect=true) - *Resume Builder*
 * 🛠️ [SmallPDF](https://smallpdf.com/) - *PDF Tools*
+
+## Best Tutorials
+
+* 📽️ [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
+* 📽️ [Introduction to Docker](https://www.youtube.com/watch?v=WcQ3-M4-jik&t=4s&fbclid=IwAR0eDPGkHGVyf10-kT0wzgg0hZozhOFNFgZsdAe5Xo1HXUT526vxW3re1KI)
