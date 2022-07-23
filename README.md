@@ -150,6 +150,7 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 * 🛠️ [Airtable](https://airtable.com/) - *Database Integration*
 * 🛠️ [Gumroad](https://gumroad.com/) - *Payment Integration*
 * 🛠️ [Obsidian](https://obsidian.md/) - *Note Taking App for Developers*
+* 🛠️ [Carbon](https://carbon.now.sh) - *Generate Source Code Images*
 
 ### Design
 
