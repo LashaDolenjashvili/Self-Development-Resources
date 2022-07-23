@@ -151,6 +151,7 @@ A growing list of tools, tutorials, blogs, and Youtube channels for self-develop
 * 🛠️ [Gumroad](https://gumroad.com/) - *Payment Integration*
 * 🛠️ [Obsidian](https://obsidian.md/) - *Note Taking App for Developers*
 * 🛠️ [Carbon](https://carbon.now.sh) - *Generate Source Code Images*
+* 🛠️ [AutoRegex](https://www.autoregex.xyz/) - *Generate RegEx from Plain English*
 
 ### Design
 
