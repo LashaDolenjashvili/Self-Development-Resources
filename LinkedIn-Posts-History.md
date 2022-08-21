@@ -13,3 +13,5 @@ My posts usually present different ideas and concepts from various subjects like
 10. [k-Fold Cross Validation](https://www.linkedin.com/posts/lasha-dolenjashvili_statquest-ritvikmath-machinelearning-activity-6964466991373930496-xj13?utm_source=linkedin_share&utm_medium=member_desktop_web)
 11. [PyScript - Python in HTML](https://www.linkedin.com/feed/update/urn:li:activity:6964919935126941696/)
 12. [Power BI - Condition Formatting for Data Labels](https://www.linkedin.com/feed/update/urn:li:activity:6965930926862127104/)
+13. [NASA - Space Exploration - Artemis I](https://www.linkedin.com/feed/update/urn:li:activity:6966806295181950976/)
+14. [Power BI - DAX - Context Transition](https://www.linkedin.com/feed/update/urn:li:activity:6966987313297960960/)
