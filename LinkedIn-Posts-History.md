@@ -15,3 +15,4 @@ My posts usually present different ideas and concepts from various subjects like
 12. [Power BI - Condition Formatting for Data Labels](https://www.linkedin.com/feed/update/urn:li:activity:6965930926862127104/)
 13. [NASA - Space Exploration - Artemis I](https://www.linkedin.com/feed/update/urn:li:activity:6966806295181950976/)
 14. [Power BI - DAX - Context Transition](https://www.linkedin.com/feed/update/urn:li:activity:6966987313297960960/)
+15. [Building a high-performance data and AI organization - MIT Report](https://www.linkedin.com/posts/lasha-dolenjashvili_data-ml-businessintelligence-activity-6967364235546779648-A7vg?utm_source=linkedin_share&utm_medium=member_desktop_web)
