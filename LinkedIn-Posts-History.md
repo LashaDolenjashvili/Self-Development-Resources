@@ -17,3 +17,4 @@ My posts usually present different ideas and concepts from various subjects like
 14. [Power BI - DAX - Context Transition](https://www.linkedin.com/feed/update/urn:li:activity:6966987313297960960/)
 15. [Building a high-performance data and AI organization - MIT Report](https://www.linkedin.com/posts/lasha-dolenjashvili_data-ml-businessintelligence-activity-6967364235546779648-A7vg?utm_source=linkedin_share&utm_medium=member_desktop_web)
 16. [James Webb Space Telescope](https://www.linkedin.com/feed/update/urn:li:share:6967715732998516736/)
+17. [Machine Learning University from Amazon](https://www.linkedin.com/feed/update/urn:li:share:6968183182579879936/)
