@@ -19,3 +19,4 @@ My posts usually present different ideas and concepts from various subjects like
 16. [James Webb Space Telescope](https://www.linkedin.com/feed/update/urn:li:share:6967715732998516736/)
 17. [Machine Learning University from Amazon](https://www.linkedin.com/feed/update/urn:li:share:6968183182579879936/)
 18. [TensorFlow Hub](https://www.linkedin.com/feed/update/urn:li:share:6969532003893317632/)
+19. [SQL Patterns - Gaps and Islands Problem](https://www.linkedin.com/feed/update/urn:li:share:6971771044915216384/)
